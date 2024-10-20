@@ -1,6 +1,6 @@
 # Discover Python and Software Design with Game Programming
 
-Code for book "Discover Python and Patterns with Game Programming"
+Code for book "Discover Python and Patterns with Game Programming", see https://www.patternsgameprog.com/
 
 Requirements:
  - Anaconda with Python 3.11: https://www.anaconda.com/download
