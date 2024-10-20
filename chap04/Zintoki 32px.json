@@ -1,0 +1,34 @@
+{
+  "defaultWindowWidth": 640,
+  "defaultWindowHeight": 352,
+  "font": {
+    "title": "BD_Cartoon_Shout.ttf",
+    "titleSize": 32,
+    "menu": "BD_Cartoon_Shout.ttf",
+    "menuSize": 21,
+    "message": "BD_Cartoon_Shout.ttf",
+    "messageSize": 14
+  },
+  "image": {
+    "cursor": "cursor32.png"
+  },
+  "tile": {
+    "width": 32,
+    "height": 32,
+    "ground": "ground32.png",
+    "walls": "walls32.png",
+    "units": "units32.png",
+    "bullets": "explosions32.png",
+    "explosions": "explosions32.png"
+  },
+  "sound": {
+    "fire": "170274__knova__rifle-fire-synthetic.wav",
+    "explosion": "110115__ryansnook__small-explosion.wav"
+  },
+  "music": {
+    "start": "17718_1462204250.mp3",
+    "play": "17687_1462199612.mp3",
+    "victory": "17382_1461858477.mp3",
+    "fail": "17675_1462199580.mp3"
+  }
+}

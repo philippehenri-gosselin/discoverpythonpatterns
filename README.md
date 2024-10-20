@@ -1,7 +1,12 @@
 # Discover Python and Software Design with Game Programming
 
-Code for book "Discover Python and Software Design with Game Programming"
+Code for book "Discover Python and Patterns with Game Programming"
 
-**NOT FINISHED YET!!**
+Requirements:
+ - Anaconda with Python 3.11: https://www.anaconda.com/distribution/#download-section
+ - Programs were tested with Python 3.11.10. If you have any issue, switch to this specific version
+ - Pygame: in anaconda prompt, run:
 
-To get news, go to https://www.patternsgameprog.com/
+    pip install pygame==2.6.1 tmx==1.10 six==1.16.0
+
+ 
